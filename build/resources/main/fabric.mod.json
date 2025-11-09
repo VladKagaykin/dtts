@@ -2,6 +2,7 @@
     "schemaVersion": 1,
     "id": "dtts",
     "version": "1.0.0",
+    "authors": ["AVCD"],
     "name": "Proximity Chat",
     "description": "Локальный чат для Minecraft",
     "environment": "server",
