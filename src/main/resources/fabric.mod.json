@@ -1,0 +1,21 @@
+{
+    "schemaVersion": 1,
+    "id": "dtts",
+    "version": "1.0.0",
+    "authors": ["AVCD"],
+    "name": "Proximity Chat",
+    "description": "Локальный чат для Minecraft",
+    "environment": "server",
+    "entrypoints": {
+        "main": ["com.example.ProximityChatMod"]
+    },
+    "depends": {
+        "fabricloader": ">=0.14.0",
+        "fabric-api": "*",
+        "minecraft": "1.19.4",
+        "java": ">=17"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}
